@@ -1,2 +1,2 @@
-FROM calico/node:v3.9.6
+FROM calico/node:v3.20.0
 MAINTAINER perterq <947712087@qq.com>
